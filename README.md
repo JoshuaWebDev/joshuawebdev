@@ -15,6 +15,7 @@ Know more about me and my work!
 ### Education
 
 :mortar_board: Graduating in Computer Science from the Federal University of Amapá.
+:mortar_board: Graduating in Data Science from the Estácio.
 
 
 ### Work Experience
