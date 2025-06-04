@@ -1,4 +1,4 @@
-## Josué B. da Silva (joshua)
+## Josué Silva (joshua)
 
 My name is Josué. I'm a web developer. I have experience with PHP, JavaScript and Ruby programming languages. But I've also done some things with Java, C / C ++ and Python.
 
