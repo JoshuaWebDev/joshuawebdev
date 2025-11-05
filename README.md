@@ -90,7 +90,7 @@ I've worked with the following technologies:
 ### GitHub Stats
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&bg_color=333&border_color=FFF&show_icons=true&icon_color=FFF&title_color=30A3DC&text_color=FFF) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Most Used Technologies
 
