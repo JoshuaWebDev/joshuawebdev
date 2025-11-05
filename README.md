@@ -89,8 +89,11 @@ I've worked with the following technologies:
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&bg_color=333&border_color=FFF&show_icons=true&icon_color=FFF&title_color=30A3DC&text_color=FFF)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&bg_color=333&border_color=FFF&show_icons=true&icon_color=FFF&title_color=30A3DC&text_color=FFF) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuawebdev&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Most Used Languages
+#### Most Used Technologies
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshuawebdev&layout=compact&bg_color=333&border_color=FFF&title_color=30A3DC&text_color=FFF)
+<!--![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshuawebdev&layout=compact&bg_color=333&border_color=FFF&title_color=30A3DC&text_color=FFF)-->
+
+[![Most Used Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuawebdev&langs_count=10&hide_title=true&hide=html,css,blade,dockerfile&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
