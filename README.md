@@ -98,4 +98,4 @@ I've worked with the following technologies:
 <!--![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshuawebdev&layout=compact&bg_color=333&border_color=FFF&title_color=30A3DC&text_color=FFF)-->
 
 <!--[![Most Used Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuawebdev&langs_count=10&hide_title=true&hide=html,css,blade,dockerfile&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joshuawebdev&layout=pie&langs_count=20&theme=onedark&hide=blade,css,html)](https://github.com/joshuawebdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joshuawebdev&layout=normal&langs_count=20&theme=onedark&hide=blade,css,html)](https://github.com/joshuawebdev/github-readme-stats)
